@@ -2,7 +2,7 @@
 
 A modern, interactive web application for visualizing and analyzing KML (Keyhole Markup Language) files. Built with React, TypeScript, and Leaflet.
 
-![KML Viewer Screenshot](https://images.unsplash.com/photo-1508847154043-be5407fcaa5a?auto=format&fit=crop&q=80&w=2000)
+![KML Viewer Screenshot](https://res.cloudinary.com/dgnjzuwqu/image/upload/v1741595407/o2yo0flr27ejfb7yhlwb.png)
 
 ## Live Demo
 
