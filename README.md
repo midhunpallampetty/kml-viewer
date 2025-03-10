@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # KML Viewer
 
 A modern, interactive web application for visualizing and analyzing KML (Keyhole Markup Language) files. Built with React, TypeScript, and Leaflet.
@@ -92,7 +92,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - OpenStreetMap for map data
 - Esri for satellite imagery
 - OpenTopoMap for terrain data
-=======
+  
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -105,4 +105,4 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
->>>>>>> d2b00ed (kms viewer first commit)
+
